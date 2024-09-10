@@ -1,0 +1,76 @@
+@import url(./variaveis.css);
+
+.main {
+  align-items: center;
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  font-family: "Outfit", sans-serif;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
+  align-items: center;
+  background-color: var(--bg-card);
+  border-radius: 20px;
+  height: 499px;
+  padding: 16px;
+  width: 320px;
+}
+
+.card__description {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 24px;
+  text-align: center;
+}
+
+.title {
+  color: var(--cor-titulo);
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: 0px;
+  line-height: 120%;
+}
+
+.description {
+  color: var(--cor-descricao);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  line-height: 140%;
+}
+
+.qr__code{
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  width: 288px;
+}
+
+.attribution {
+  bottom: 20px;
+  font-size: 11px;
+  position: absolute;
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--cor-link);
+}
+
+
+@media (max-width: 375px) {
+  .card {
+    width: 300px;
+    height: auto;
+  }
+  .qr__code {
+    width: 250px;
+  }
+  .attribution {
+    bottom: 10px;
+  }
+}
