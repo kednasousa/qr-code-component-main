@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+  --bg: #D5E1EF;
+  --bg-card: #F0F0F0;
+  --cor-titulo: #1F314F;
+  --cor-descricao: #68778D;
+  --cor-link: hsl(228, 45%, 44%);
+}
