@@ -20,4 +20,4 @@ images/: Pasta contendo a imagem do código QR.<br>
 
 ### Desafio:
 
-Mentor Frontend - Desafio do Componente QR Code ([Desafio]https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+Mentor Frontend - Desafio do Componente QR Code [Desafio](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
