@@ -13,46 +13,48 @@
 .card {
   align-items: center;
   background-color: var(--bg-card);
-  border-radius: 20px;
+  border-radius: 1.25rem;
   height: 499px;
-  padding: 16px;
+  padding: 1rem;
   width: 320px;
 }
 
 .card__description {
   display: flex;
   flex-direction: column;
-  gap: 16px;
-  margin-top: 24px;
+  gap: 1rem;
+  margin-top: 1.5rem;
   text-align: center;
 }
 
 .title {
   color: var(--cor-titulo);
   font-weight: bold;
-  font-size: 22px;
+  font-size: 1.375rem;
   letter-spacing: 0px;
   line-height: 120%;
+  padding-inline: 1rem;
 }
 
 .description {
   color: var(--cor-descricao);
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 400;
   letter-spacing: 0.2px;
   line-height: 140%;
+  padding-inline: 1rem;
 }
 
 .qr__code{
-  border-radius: 10px;
+  border-radius: 0.625rem;
   display: block;
   margin: 0 auto;
   width: 288px;
 }
 
 .attribution {
-  bottom: 20px;
-  font-size: 11px;
+  bottom: 1.25rem;
+  font-size: 0.6875rem;
   position: absolute;
   text-align: center;
 }
