@@ -1,23 +1,40 @@
-Este arquivo README fornece uma visão geral do projeto do componente de código QR do Frontend Mentor.
+# Frontend Mentor - Solução do componente de código QR
 
-# Descrição do Projeto:
+Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
-Este projeto implementa um componente de código QR responsivo usando HTML e CSS. Ele exibe uma imagem de código QR estático com uma seção de descrição e atribuição.
+## Índice
 
-## Tecnologias utilizadas:
+- [Visão geral](#visão-geral)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-HTML
-CSS
+## Overview
 
-## Estrutura do Projeto:
+### Screenshot
 
-index.html: O arquivo HTML principal contendo a estrutura do componente.<br>
-style/: Pasta contendo folhas de estilo CSS:<br>
-reset.css: Redefine os estilos padrão do navegador.<br>
-variaveis.css: Define variáveis ​​de cor para estilo.<br>
-style.css: Contém os principais estilos do componente.<br>
-images/: Pasta contendo a imagem do código QR.<br>
+![](./screenshot.jpg)
+![Desktop](<MacBook Pro-1731335505371.jpeg>) 
+![Mobile](<iPhone 12 Pro-1731335510032.jpeg>)
 
-### Desafio:
+### Links
+- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
 
-Mentor Frontend - Desafio do Componente QR Code [Desafio](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+## Meu processo
+
+### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas do CSS
+- Flexbox
+
+## Autor
+
+- Portfólio (EM CONSTRUÇÃO) - [Kedna Sousa](https://kednasousa.github.io/)
+- Frontend Mentor - [@seuusuario](https://www.frontendmentor.io/profile/kednasousa)
